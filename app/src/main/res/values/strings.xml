@@ -2,4 +2,7 @@
     <string name="app_name">WidgetTest1</string>
 
     <string name="btn1">인공지능소프트웨어과</string>
+    <string name="gender">성별 선택</string>
+    <string name="female">여성</string>
+    <string name="male">남성</string>
 </resources>
